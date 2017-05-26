@@ -1,0 +1,5 @@
+---
+client_id: "AAAAAA"
+client_secret: "aaaaaaa"
+access_code: "XXX-aaaa-FFFFF"
+expected_redirect: "https://yammer.com/redirect/"
