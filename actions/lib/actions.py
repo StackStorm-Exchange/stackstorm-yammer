@@ -5,7 +5,7 @@ except ImportError:
                'pip install yampy')
     raise ImportError(message)
 
-from st2actions.runners.pythonrunner import Action
+from st2common.runners.base_action import Action
 
 __all__ = [
     'YammerAction',
