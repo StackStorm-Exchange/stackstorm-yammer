@@ -9,3 +9,6 @@ keywords:
 version: 0.3.1
 author : Anthony Shaw
 email : anthony.shaw@dimensiondata.com
+python_versions:
+  - "2"
+  - "3"
