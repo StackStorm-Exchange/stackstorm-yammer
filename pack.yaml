@@ -6,9 +6,8 @@ keywords:
   - yammer
   - chatops
   - social
-version: 0.3.2
+version: 1.0.0
 author : Anthony Shaw
 email : anthony.shaw@dimensiondata.com
 python_versions:
-  - "2"
   - "3"
